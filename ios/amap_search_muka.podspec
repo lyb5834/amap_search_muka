@@ -16,7 +16,7 @@ A new flutter plugin project.
   s.source_files = 'Classes/**/*'
   s.dependency 'Flutter'
   s.platform = :ios, '9.0'
-  s.dependency 'AMapSearch','9.3.0'
+  s.dependency 'AMapSearch','~> 9.3.0'
   s.static_framework = true
 
   # Flutter.framework does not contain a i386 slice.
